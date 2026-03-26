@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929948239768",
+    "project_id": "prepschedule",
+    "storage_bucket": "prepschedule.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929948239768:android:f72d54735b49ad918c4ded",
+        "android_client_info": {
+          "package_name": "com.example.prepschedule"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYrmaD-lsKsVv2ITD3P49Lumu49J8ws-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
